@@ -10,11 +10,11 @@ Because symptoms like "fatigue" can mean many things, the system utilizes Probab
 The backend database (Google Sheets) acts as a longitudinal tracker. We implemented a scatter plot analytics dashboard to perform anomaly detection and clustering on the relationship between sleep deprivation and student stress levels, highlighting patterns without pre-labeled outcomes.
 
 4. Ethics, Bias & Fairness (Module 6)
-## To ensure compliance with AI safety standards in health tech:
+To ensure compliance with AI safety standards in health tech:
 
-## The LLM prompt is demographic-agnostic (blind to age/gender/race) to prevent biased medical assumptions.
+The LLM prompt is demographic-agnostic (blind to age/gender/race) to prevent biased medical assumptions.
 
-## A strict boundary is maintained: the system is defined as a "Wellness Tracker," not a diagnostic tool.
+A strict boundary is maintained: the system is defined as a "Wellness Tracker," not a diagnostic tool.
 
-## Un-bypassable disclaimers are appended to all end-user Canva reports.
+Un-bypassable disclaimers are appended to all end-user Canva reports.
 
