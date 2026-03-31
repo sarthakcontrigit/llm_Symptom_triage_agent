@@ -51,3 +51,9 @@ To ensure compliance with AI safety standards in health tech:
 * A strict boundary is maintained: the system is defined as a "Wellness Tracker," not a diagnostic tool. 
 * Un-bypassable disclaimers are appended to all end-user UI reports.
 
+---
+
+## 🔗 Live Deployment & Demo
+* **Interactive Frontend (User Input):** [Click here to access the Student Wellness Tracker](https://forms.gle/KPcoYnykUqYv83kq8)
+* **System Action:** *Note for Evaluators - Submitting this form will automatically trigger the Groq LLM decision agent and populate the backend analytics dashboard in real-time.*
+
